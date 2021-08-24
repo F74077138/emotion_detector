@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486247146495",
+    "project_id": "detectemotionapp",
+    "storage_bucket": "detectemotionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486247146495:android:4560264edb068019a5fdca",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486247146495-480uf5cen7tq2u74auq7dk134qpk1khb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "1a904acacb9077c29c2c0bd79243434bdeaa8aba"
+          }
+        },
+        {
+          "client_id": "486247146495-k7rii7i80eu26agtn5srp865titdkm8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBXdbG417fJCzh2dOI7eGOpcURZchZAiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486247146495-k7rii7i80eu26agtn5srp865titdkm8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
